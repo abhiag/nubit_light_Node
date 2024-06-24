@@ -10,7 +10,9 @@ screen -S nubitga
 
 curl -sL1 https://nubit.sh | bash
 
-CTRL + A + D (this command is use to switch the running matrix Screen)
+CTRL + A + D (this command is used to switch the running matrix Screen)
+
+nano mnemonic.txt (save the Seeds Phrase)
 
 to check the node again = screen -r nubitga
 

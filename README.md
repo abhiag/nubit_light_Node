@@ -1,13 +1,9 @@
 # nubit_light_Node
 
 sudo apt-get update
-
 sudo apt install git
-
 sudo apt install nano
-
 sudo apt install screen 
-
 screen -S nubitga
 
 **Main one click Node install COmmand**

@@ -12,7 +12,7 @@ curl -sL1 https://nubit.sh | bash
 
 CTRL + A + D (this command is used to switch the running matrix Screen)
 
-cat $HOME/nubit-node/mnemonic.txt
+Use this command to backup your Seeds: cat $HOME/nubit-node/mnemonic.txt
 
 to check the node again = screen -r nubitga
 

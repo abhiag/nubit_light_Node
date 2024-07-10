@@ -18,6 +18,6 @@ curl -sL1 https://nubit.sh | bash
 
 **to restart the node**
 1️⃣Press Ctrl+C to stope the Node
-2️⃣Then Put Curl Command: curl -sL1 https://nubit.sh | bash
-
+2️⃣Then Put Curl Command: 
+curl -sL1 https://nubit.sh | bash
 
